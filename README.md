@@ -1,7 +1,7 @@
-### Hi there 👋
+#  Hi there 👋 I'm Ahmed Alaa
 
  
-- 🌱 I’m pursuing my Ph.D. degree in machine learning and computer networks
+- 🌱 I'm pursuing my Ph.D. degree in machine learning and computer networks
   
 - ⚡ Interested in web development, machine learning, and IoT
 
