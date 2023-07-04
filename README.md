@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ 
+- 🌱 I’m pursuing my Ph.D. degree in machine learning and computer networks
+  
+- ⚡ Interested in web development, machine learning, and IoT
+
 <!--
 **a7med3laa/a7med3laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
