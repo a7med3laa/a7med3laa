@@ -1,9 +1,20 @@
-#  Hi there 👋 I'm Ahmed Alaa
+#  Hi there 👋 I'm Ahmed Alaa 🤓
 
- 
-- 🌱 I'm pursuing my Ph.D. degree in machine learning and computer networks
+- Master of Science (M.Sc.) in IT 👨‍💻
+
+- Pursuing my Ph.D. in machine learning and computer networks 👨‍🎓
   
-- ⚡ Interested in web development, machine learning, and IoT
+- Interested in web development, machine learning, and IoT 🧑‍💻
+
+## Languages and Tools 💟:
+
+- HTML-CSS-Javascript
+- Express - Node.js framework
+- Django framework
+- Python
+- Java
+- C++
+- Matlab
 
 <!--
 **a7med3laa/a7med3laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
