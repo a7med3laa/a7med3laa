@@ -1,6 +1,6 @@
-#  Hi there 👋 I'm Ahmed Alaa 🤓
+#  Hi there 👋 I'm Ahmed Alaa 😎
 
-- Master of Science (M.Sc.) in IT 👨‍💻
+- Master of Science (M.Sc.) in IT 👨‍💻🤓
 
 - Pursuing my Ph.D. in machine learning and computer networks 👨‍🎓
   
