@@ -8,14 +8,12 @@
 
 ## Languages and Tools 💟:
 
-- HTML-CSS-Javascript
-- Express - Node.js framework
-- Django framework
-- Python
-- Java
-- C++
-- Matlab
-- API Testing: Postman and Jmeter
+- Web Frontend development: HTML - CSS - Javascript
+- web backend development: Express Framework - Django framework - Php
+- Web API Testing: Postman - Jmeter - Prometheus
+- Desktop development: Python - Java - C++
+- Machine learning: Matlab - python
+
 
 <!--
 **a7med3laa/a7med3laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
