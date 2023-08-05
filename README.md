@@ -10,9 +10,9 @@
 
 - Web frontend development: HTML - CSS - Javascript
 - web backend development: Express Framework - Django framework - Php
-- Web API Testing: Postman - Jmeter - Prometheus
-- Desktop development: Python - Java - C++
-- Machine learning: Matlab - python
+- API Testing: Postman - Jmeter - Prometheus
+- Desktop applications: Python - Java - C++
+- Machine learning and Image Processing: Matlab - Python
 
 
 <!--
