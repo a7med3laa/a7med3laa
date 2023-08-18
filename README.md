@@ -10,6 +10,7 @@
 
 - Web frontend development: HTML - CSS - Javascript
 - web backend development: Express Framework - Django framework - Php
+- Database: MySQL - PostgreSQL - MongoDB
 - API Testing: Postman - Jmeter - Prometheus
 - Desktop applications: Python - Java - C++
 - Machine learning and Image Processing: Matlab - Python
