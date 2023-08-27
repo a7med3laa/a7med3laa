@@ -8,8 +8,8 @@
 
 ## Languages and Tools 💟:
 
-- Web frontend development: HTML - CSS - Javascript
-- web backend development: Express Framework - Django framework - Php
+- Web development frontend: HTML - CSS - Javascript
+- Web development backend: Express Framework - Django framework - PHP
 - Database: MySQL - PostgreSQL - MongoDB
 - API Testing: Postman - Jmeter - Prometheus
 - Desktop applications: Python - Java - C++
